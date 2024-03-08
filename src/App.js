@@ -13,6 +13,7 @@ import Lagrange from "./interpolation/Lagrange";
 import MultiRegression from "./Regression/Multi";
 import LinearRegression from "./Regression/Linear";
 import PolyRegression from "./Regression/Poly";
+import add
 
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
